@@ -15,14 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/devruhulaminmahfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devruhulaminmahfuj" height="30" width="40" /></a>
-
+FACEBOOK <a href="https://fb.com/devruhulaminmahfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devruhulaminmahfuj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devruhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devruhul" height="30" width="40" /></a>
-
 <a href="https://discord.gg/5394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5394" height="30" width="40" /></a>
-
 <a href="https://codepen.io/devruhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devruhul" height="30" width="40" /></a>
-
 <a href="https://dev.to/devruhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devruhul" height="30" width="40" /></a>
 
 
