@@ -1,5 +1,7 @@
 
 <img src="image/ruhul.png" width="600px" alt="hi">
+<img src="image/ruhulamin.jpg" width="600px" alt="hi">
+<img src="image/profile.png" width="600px" alt="hi">
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
