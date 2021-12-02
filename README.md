@@ -1,6 +1,6 @@
 
 
-<img src="image/ruhulamin.jpg" width="1200px" height="500px" alt="hi">
+<img src="image/ruhulamin.png" width="960px" height="469px" alt="hi">
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
