@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devruhul&label=Profile%20views&color=0e75b6&style=flat" alt="devruhul" /> </p>
 
-- 🔭 I’m currently working on **Agency Project**
+- 🔭 I’m currently working on **STS Consultancy Services** as a front end developer
 
 - 🌱 I’m currently learning **React, Node, MongoDB**
 
-- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/devruhul?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/devruhul?tab=repositories)
 
 - 📫 How to reach me **ruhulamin262001@gmail.com**
 
-- ⚡ Fun fact **I love to eat noodles**
+- ⚡ Fun fact **I love to eat noodles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
