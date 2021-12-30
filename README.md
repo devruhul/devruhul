@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Node, MongoDB**.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/devruhul?tab=repositories).
+- 👨‍💻 All of my projects are available at [Github](https://github.com/devruhul?tab=repositories)
 
 - 📫 How to reach me **ruhulamin262001@gmail.com**.
 
