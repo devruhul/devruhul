@@ -1,7 +1,7 @@
 
 
 <img src="image/New Project.png" width="960px" height="469px" alt="hi">
-<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
+<h1 align="center">Hi👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devruhul&label=Profile%20views&color=0e75b6&style=flat" alt="devruhul" /> </p>
