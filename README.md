@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ruhulamin262001@gmail.com**.
 
-- ⚡ Fun fact **I love to eat noodles**.
+- ⚡ Fun fact **I love to eat and cook noodles**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
