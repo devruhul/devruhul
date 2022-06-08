@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devruhul&label=Profile%20views&color=0e75b6&style=flat" alt="devruhul" /> </p>
 
-- 🔭 I’m currently working on **STS Consultancy Services** as a front end designer and office assistant.
+- 🔭 I’m currently working on **STS Consultancy Services** as a Front End Developer.
 
 - 🌱 I’m currently learning **React, Node, MongoDB**.
 
