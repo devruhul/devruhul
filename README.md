@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devruhul&label=Profile%20views&color=0e75b6&style=flat" alt="devruhul" /> </p>
 
-- 🔭 I’m currently working on **STS Consultancy Services** as a Front End Designer.
-
 - 🌱 I’m currently learning **React, Node, MongoDB**.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/devruhul?tab=repositories)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/devruhul?tab=repositories)
 
 - 📫 How to reach me **ruhulamin262001@gmail.com**.
 
